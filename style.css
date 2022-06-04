@@ -3,3 +3,17 @@ h1 {
 	background-color: black;
 
 }
+
+div {
+	border-color: pink;
+	padding-top: 10%;
+	padding-left: 30%;
+	background-color: blue;
+}
+
+p {
+	color: green;
+	background-color: rgb(255; 132; 23;)
+	padding-top:15%;
+	padding-left:30%;
+}
